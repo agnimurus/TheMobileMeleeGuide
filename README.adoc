@@ -50,7 +50,11 @@ Branches should be created in the following format:
 
 `<prefix>/<feature/issue/hotfix>`
 
-Where `<prefix>` is your GitHub handle
+Where `<prefix>` is your GitHub handle.
+
+Features and Issues should branch off `development`
+
+Hotfixes should branch off `master`
 
 ==== Commits
 
