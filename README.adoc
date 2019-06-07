@@ -1,4 +1,9 @@
 = The Mobile Melee Guide
+Pujit Mehrotra <pujitm2009@gmail.com>
+06-07-2019 (mm/dd/yyyy)
+:appversion: 0.4.2
+
+App Version (semver) v{appversion}
 
 If you're new to flutter, see the section below.
 
@@ -20,6 +25,12 @@ samples, guidance on mobile development, and a full API reference.
 We use AsciiDoc for greater flexibility.
 
 Documentation should live next to the code it's documenting
+
+== Environment Configuration
+
+Environment configurations are encrypted using `git secret`
+
+See `*.template` files for info on what variables are expected.
 
 == Development
 
