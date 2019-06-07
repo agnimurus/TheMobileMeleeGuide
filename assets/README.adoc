@@ -1,0 +1,3 @@
+= Assets README
+
+The `lib` directory contains the Melee Library assets (markdown files, images, etc.)

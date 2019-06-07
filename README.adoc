@@ -1,0 +1,54 @@
+= The Mobile Melee Guide
+
+If you're new to flutter, see the section below.
+
+== Getting Started With Flutter
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+== Documentation
+
+We use AsciiDoc for greater flexibility.
+
+Documentation should live next to the code it's documenting
+
+== Development
+
+=== Testing
+
+See documentation in `test/` for Unit Testing
+
+See documentation in `test_driver` for Integration Testing
+
+=== Git
+
+==== Branches
+
+Master branch should be merge-only.
+
+Branches should be created in the following format:
+
+`<prefix>/<feature/issue/hotfix>`
+
+Where `<prefix>` is your GitHub handle
+
+==== Commits
+
+You can use `git-commit-template.txt` as a template for your commits
+
+Commits *should* be PGP signed.
+
+=== Editor Configuration
+
+Use the `.editorconfig` file to load basic editor settings.
+
+
